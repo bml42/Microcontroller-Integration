@@ -1,0 +1,10 @@
+C:\Users\bmlin\Documents\UWF\UWF Spring 2019\Microcontroller Integration\Project 2\Project2Csharp\Project2Csharp\bin\Debug\Project2Csharp.exe.config
+C:\Users\bmlin\Documents\UWF\UWF Spring 2019\Microcontroller Integration\Project 2\Project2Csharp\Project2Csharp\bin\Debug\Project2Csharp.exe
+C:\Users\bmlin\Documents\UWF\UWF Spring 2019\Microcontroller Integration\Project 2\Project2Csharp\Project2Csharp\bin\Debug\Project2Csharp.pdb
+C:\Users\bmlin\Documents\UWF\UWF Spring 2019\Microcontroller Integration\Project 2\Project2Csharp\Project2Csharp\obj\Debug\Project2Csharp.csprojAssemblyReference.cache
+C:\Users\bmlin\Documents\UWF\UWF Spring 2019\Microcontroller Integration\Project 2\Project2Csharp\Project2Csharp\obj\Debug\Project2Csharp.Form1.resources
+C:\Users\bmlin\Documents\UWF\UWF Spring 2019\Microcontroller Integration\Project 2\Project2Csharp\Project2Csharp\obj\Debug\Project2Csharp.Properties.Resources.resources
+C:\Users\bmlin\Documents\UWF\UWF Spring 2019\Microcontroller Integration\Project 2\Project2Csharp\Project2Csharp\obj\Debug\Project2Csharp.csproj.GenerateResource.cache
+C:\Users\bmlin\Documents\UWF\UWF Spring 2019\Microcontroller Integration\Project 2\Project2Csharp\Project2Csharp\obj\Debug\Project2Csharp.csproj.CoreCompileInputs.cache
+C:\Users\bmlin\Documents\UWF\UWF Spring 2019\Microcontroller Integration\Project 2\Project2Csharp\Project2Csharp\obj\Debug\Project2Csharp.exe
+C:\Users\bmlin\Documents\UWF\UWF Spring 2019\Microcontroller Integration\Project 2\Project2Csharp\Project2Csharp\obj\Debug\Project2Csharp.pdb
